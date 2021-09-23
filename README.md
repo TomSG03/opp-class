@@ -1,9 +1,7 @@
 # Продвинутый JavaScript: современные возможности языка
-## [Домашнее задание к лекции «Unit-тестирование»](https://github.com/TomSG03/ajs-homeworks/tree/master/test-ci) - Задача Чистые функции
-- [x] Чистые функции
-- [x] [Matchers](https://github.com/TomSG03/Matchers)
-
-[![Build status](https://ci.appveyor.com/api/projects/status/6p7u12dq2egixmoe/branch/master?svg=true)](https://ci.appveyor.com/project/TomSG03/pure-functions/branch/master)
+## [Домашнее задание к лекции «Классы, наследование»](https://github.com/TomSG03/ajs-homeworks/tree/master/test-ci) - Задача Классы, наследование
+- [x] Классы, наследование
+- [x] [Методы](https://github.com/TomSG03/opp-metod)
 
 ---
 [Спискок задач](https://github.com/TomSG03/ajs-homeworks-list)
