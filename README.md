@@ -3,5 +3,3 @@
 - [x] Классы, наследование
 - [x] [Методы](https://github.com/TomSG03/opp-metod)
 
-[![Build status](https://ci.appveyor.com/api/projects/status/58pa8rnd4tl6ssks?svg=true)](https://ci.appveyor.com/project/TomSG03/opp-class)
-
